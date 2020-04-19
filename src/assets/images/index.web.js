@@ -1,0 +1,12 @@
+export const logo = require("./logo.png");
+export const footer = require("./footer.png");
+export const footerLeft = require("./bg-left.svg");
+export const footerRight = require("./bg-right.svg");
+export const discount = require("./discount.png");
+export const promotionalEvents = require("./promotional-events.png");
+export const redeemPoints = require("./redeem-points.png");
+export const pointsHistory = require("./points-history.png");
+export const gift = require("./gift.png");
+export const fadedGift = require("./faded-gift.svg");
+export const medal1 = require("./medal1.svg");
+export const medal2 = require("./medal2.svg");

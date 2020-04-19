@@ -1,0 +1,3 @@
+.datePickerWrapper, .react-datepicker-wrapper, .react-datepicker__input-container, input {
+    border: 0;
+}

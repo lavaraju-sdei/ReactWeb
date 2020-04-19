@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "336622092248",
+    "firebase_url": "https://jazz-rewards.firebaseio.com",
+    "project_id": "jazz-rewards",
+    "storage_bucket": "jazz-rewards.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336622092248:android:a6bd37a60edf45ab25bcad",
+        "android_client_info": {
+          "package_name": "com.jazzrnweb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336622092248-hsfaae6aqgacpl6r0pu33qj55ps4qdg6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jazzrnweb",
+            "certificate_hash": "b6268611c49a3aba4a504cbb30a08b3537f53f0c"
+          }
+        },
+        {
+          "client_id": "336622092248-ck1s08sl7f7orgjuk7uhfakr29c01e37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA478n0BsMId7pNV06ejKHY97M_uwyToOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336622092248-ck1s08sl7f7orgjuk7uhfakr29c01e37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
